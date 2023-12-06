@@ -1,0 +1,10 @@
+<svg width="60" height="61" viewBox="0 0 60 61" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="hamburguer">
+<path id="Ellipse 1" d="M60 30.55C60 47.1185 46.5685 60.55 30 60.55C13.4315 60.55 0 47.1185 0 30.55C0 13.9814 13.4315 0.549988 30 0.549988C46.5685 0.549988 60 13.9814 60 30.55Z" fill="#104270"/>
+<g id="Group 1">
+<rect id="Rectangle 3" x="10.9869" y="16.0672" width="37.9548" height="4.13793" rx="2.06897" fill="#FAFCFF"/>
+<rect id="Rectangle 4" x="10.9869" y="28.0673" width="37.9548" height="4.13793" rx="2.06897" fill="#FAFCFF"/>
+<rect id="Rectangle 5" x="10.9869" y="40.0673" width="37.9548" height="4.13793" rx="2.06897" fill="#FAFCFF"/>
+</g>
+</g>
+</svg>

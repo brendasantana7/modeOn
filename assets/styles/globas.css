@@ -1,0 +1,13 @@
+:root{
+
+    font-size: 62.5%;
+    font-family: "Ubuntu", sans-serif;
+
+    --primary-color: #001D3D;
+    --secundary-color: #003566;
+    --text-color: #000814;
+    --white: #FAFCFF;
+    --fill-color: #61ACF2;
+    --active-color: #277ECF;
+    --border-color: #7D99B3;
+}
